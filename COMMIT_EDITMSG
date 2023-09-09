@@ -1,0 +1,45 @@
+Revert "Criação do projeto"
+
+This reverts commit 435b8840454c7028af2e94ea23ecbac6cbe2ec7e.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Changes to be committed:
+#	deleted:    build.xml
+#	deleted:    build/classes/.netbeans_automatic_build
+#	deleted:    build/classes/.netbeans_update_resources
+#	deleted:    build/classes/ProdutosDAO.class
+#	deleted:    build/classes/ProdutosDTO.class
+#	deleted:    build/classes/cadastroVIEW$1.class
+#	deleted:    build/classes/cadastroVIEW$2.class
+#	deleted:    build/classes/cadastroVIEW$3.class
+#	deleted:    build/classes/cadastroVIEW$4.class
+#	deleted:    build/classes/cadastroVIEW.class
+#	deleted:    build/classes/cadastroVIEW.form
+#	deleted:    build/classes/conectaDAO.class
+#	deleted:    build/classes/leiloestdsat/LeiloesTDSat.class
+#	deleted:    build/classes/listagemVIEW$1.class
+#	deleted:    build/classes/listagemVIEW$2.class
+#	deleted:    build/classes/listagemVIEW$3.class
+#	deleted:    build/classes/listagemVIEW$4.class
+#	deleted:    build/classes/listagemVIEW.class
+#	deleted:    build/classes/listagemVIEW.form
+#	deleted:    lib/mysql-connector-java-5.1.47.jar
+#	deleted:    lib/mysql-connector-java-8.0.21.jar
+#	deleted:    manifest.mf
+#	deleted:    nbproject/build-impl.xml
+#	deleted:    nbproject/genfiles.properties
+#	deleted:    nbproject/private/config.properties
+#	deleted:    nbproject/private/private.properties
+#	deleted:    nbproject/project.properties
+#	deleted:    nbproject/project.xml
+#	deleted:    src/ProdutosDAO.java
+#	deleted:    src/ProdutosDTO.java
+#	deleted:    src/cadastroVIEW.form
+#	deleted:    src/cadastroVIEW.java
+#	deleted:    src/conectaDAO.java
+#	deleted:    src/listagemVIEW.form
+#	deleted:    src/listagemVIEW.java
+#
